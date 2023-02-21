@@ -1,6 +1,6 @@
 # Toggle Stage Manager
 
-Toggle Mac OS Stage Manager on and off.
+Toggle Mac OS [Stage Manager](https://support.apple.com/en-us/HT213315) on and off.
 
 ## Usage
 
