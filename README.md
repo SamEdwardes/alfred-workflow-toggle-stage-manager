@@ -8,7 +8,7 @@ Trigger the Workflow by typing `stage`. Press enter to toggle Stage Manager on a
 
 ![Screenshot of using toggle stage manager](Workflow/images/usage-screenshot.png)
 
-Alternatively, you can trigger the workflow using the `^⌥s` hotkey.
+Alternatively, you can trigger the workflow using the **Ctrl-Opt-S** hotkey.
 
 ## Details
 
